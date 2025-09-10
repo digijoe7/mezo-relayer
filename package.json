@@ -1,0 +1,15 @@
+{
+  "name": "mezo-relayer",
+  "version": "1.0.0",
+  "description": "Simple relayer for Mezo GasTankWalletV2",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "5.7.2",
+    "express": "^4.19.2"
+  }
+}
